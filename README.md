@@ -42,4 +42,7 @@ they are forced to by an opponent, but whenever they can, they will try to play
 more volleys instead of other shots.)  
 
 ## Skills  
-For skills, use a number from 0–100. Higher the number, higher the skills.  
+For skills, use a number from 0–100. Higher the number, higher the skills.
+
+## Software Used
+The simulation was created in Visual Basic 6.
